@@ -1,7 +1,7 @@
 from pyrogram import Client, filters
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 
-PM_HELP_TEXT = """ ADD @musicx3stream and me to your Group!!
+PM_HELP_TEXT = """ You can't add me to group 😐. Use @MusicX3streamingbot
 
 Commands 🛠
 
